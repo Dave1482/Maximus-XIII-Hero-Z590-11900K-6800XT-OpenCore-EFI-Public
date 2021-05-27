@@ -4,3 +4,5 @@
 The iasl tool for creating your own SSDT files is under EFI/OC/Tools/iasl
 
 OpenCore 0.6.9
+
+Configured to Disable ROG Strix 3070 in the first slot
